@@ -1,7 +1,7 @@
 Heroku buildpack: PhantomJS
 =======================
 
-This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) of PhantomJS(http://phantomjs.org).
+This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) of PhantomJS(http://phantomjs.org) 2.x.x.
 
 Usage
 -----
